@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curre",
+				"currentCategory"
+			],
+			[
+				"dele",
+				"deleteCategory"
+			],
+			[
+				"activeca",
+				"activeCategory"
+			],
+			[
+				"activeCa",
+				"activeCategories"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sublimelinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:In",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"eslint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Yuliya/projects/_personal_/smashing-stores"
+	],
+	"file_history":
+	[
+		"/D/Yuliya/projects/udacity/web_tooling_and_automation/ud892/Lesson 2/dist/css/main.css",
+		"/D/Yuliya/projects/udacity/web_tooling_and_automation/ud892/Lesson 2/.eslintrc.js",
+		"/D/Yuliya/projects/udacity/web_tooling_and_automation/ud892/Lesson 2/.browserslistrc",
+		"/D/Yuliya/projects/udacity/web_tooling_and_automation/ud892/Lesson 2/css/extra.css",
+		"/D/Yuliya/projects/udacity/web_tooling_and_automation/ud892/Lesson 2/sass/main.scss",
+		"/D/Yuliya/projects/mevn/mevn-application/client/package.json",
+		"/D/Yuliya/projects/kaspersky/simple_spa/package.json",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/package.json",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/nodejs-express-mysql-server/app/config/db.config.js",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/nodejs-express-mysql-server/app/controllers/category.controller.js",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/nodejs-express-mysql-server/app/routes/category.routes.js",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/src/services/CategoryDataService.js",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/src/components/AddCategory.vue",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/src/main.js",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/src/components/CategoriesList.vue",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/public/main.css",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/nodejs-express-mysql-server/app/models/category.model.js",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/src/App.vue",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/public/index.html",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/nodejs-express-mysql-server/app/models/index.js",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/src/router.js",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/src/components/HelloWorld.vue",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/nodejs-express-mysql-server/server.js",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/src/components/Category.vue",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/nodejs-express-mysql-server/package.json",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/src/http-common.js",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/vue-js-crud-client/vue.config.js",
+		"/D/Yuliya/projects/itscript/nested-set-test-app/nested-set-test-app.sublime-project",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/components/PageDetails.jsx",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-api/package-lock.json",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-api/readme.md",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/package.json",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/README.md",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/components/HotelsList.jsx",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/index.js",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/components/RoomsList.jsx",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/components/PageMain.jsx",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/components/Header.jsx",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/App.js",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-api/package.json",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/node_modules/babel-plugin-dynamic-import-node/utils.js",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/components/FiltersBar.jsx",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/App.css",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/components/PageConfirmation.jsx",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/translations/en/common.json",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/components/PageAdministration.jsx",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/components/CommonPage.jsx",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-api/HotelsGenerator.js",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/utils/utils.js",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/reset.css",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/public/../src/home.svg",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/public/home.svg",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/public/index.html",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/services/UserAuth.js",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/src/i18n.js",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/.gitignore",
+		"/D/Yuliya/projects/trivago/trv-venue-hotel/trv-venue-hotel-client/node_modules/react-i18next/react-i18next.js",
+		"/D/Yuliya/projects/mevn/mevn-application/client/src/services/PostsService.js",
+		"/D/Yuliya/projects/mevn/mevn-boilerplate/MEVN-boilerplate/client/src/components/Posts.vue",
+		"/D/Yuliya/projects/mevn/mevn-application/client/src/components/pages/PostsPage.vue",
+		"/D/Yuliya/projects/mevn/mevn-application/client/build/webpack.base.conf.js",
+		"/D/Yuliya/projects/mevn/mevn-application/client/config/index.js",
+		"/D/Yuliya/projects/mevn/mevn-boilerplate/MEVN-boilerplate/client/src/router/index.js",
+		"/D/Yuliya/projects/mevn/mevn-boilerplate/MEVN-boilerplate/client/package.json",
+		"/D/Yuliya/projects/mevn/mevn-application/client/src/main.js",
+		"/D/Yuliya/projects/mevn/mevn-application/client/src/components/PostsPage.vue",
+		"/D/Yuliya/projects/mevn/mevn-application/client/src/routes/index.js",
+		"/D/Yuliya/projects/mevn/mevn-application/client/src/components/StartPage.vue",
+		"/D/Yuliya/projects/mevn/mevn-application/server/config/config.js",
+		"/D/Yuliya/projects/mevn/mevn-application/client/src/services/api.js",
+		"/D/Yuliya/projects/mevn/mevn-application/server/src/index.js",
+		"/D/Yuliya/projects/mevn/mevn-application/server/package.json",
+		"/D/Yuliya/projects/mevn/mevn-application/client/build/webpack.dev.conf.js",
+		"/D/Yuliya/projects/mevn/mevn-boilerplate/MEVN-boilerplate/client/src/components/Hello.vue",
+		"/D/Yuliya/projects/mevn/mevn-application/client/src/router/index.js",
+		"/D/Yuliya/projects/mevn/mevn-application/client/src/plugins/bootstrap.js",
+		"/D/Yuliya/projects/mevn/mevn-application/client/node_modules/xxhashjs/webpack.config.js",
+		"/D/Yuliya/projects/udacity/portfolio2/bootstrap/bootstrap-prestructure.htm",
+		"/D/Yuliya/projects/udacity/portfolio/index.html",
+		"/D/Yuliya/projects/udacity/portfolio/style.css",
+		"/D/Yuliya/projects/udacity/bootstrap-prestructure/bootstrap-prestructure.htm",
+		"/D/Yuliya/projects/kaspersky/simple_spa/.gitignore",
+		"/D/Yuliya/projects/kaspersky/simple_spa/sources/app.js",
+		"/C/Users/Rakovs/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 237.0
+	},
+	"output.exec":
+	{
+		"height": 399.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "smashing-stores.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"vue-js-crud-client\\public\\main.css"
+			],
+			[
+				"CategoryDataService",
+				"vue-js-crud-client\\src\\services\\CategoryDataService.js"
+			],
+			[
+				"categoris",
+				"vue-js-crud-client\\src\\services\\CategoryDataService.js"
+			],
+			[
+				"Category.vue",
+				"vue-js-crud-client\\src\\components\\Category.vue"
+			],
+			[
+				"Category.vu",
+				"vue-js-crud-client\\src\\components\\Category.vue"
+			],
+			[
+				"package",
+				"vue-js-crud-client\\package.json"
+			],
+			[
+				"server.js",
+				"nodejs-express-mysql-server\\server.js"
+			],
+			[
+				"packa",
+				"nodejs-express-mysql-server\\package.json"
+			],
+			[
+				"package.json",
+				"package.json"
+			],
+			[
+				"HotelsLi",
+				"src\\components\\HotelsList.jsx"
+			],
+			[
+				"utils",
+				"node_modules\\babel-plugin-dynamic-import-node\\utils.js"
+			],
+			[
+				"index.js",
+				"src\\index.js"
+			],
+			[
+				"Header",
+				"src\\components\\Header.jsx"
+			],
+			[
+				"app.css",
+				"src\\App.css"
+			],
+			[
+				"common.json",
+				"src\\translations\\en\\common.json"
+			],
+			[
+				"hotelsli",
+				"src\\components\\HotelsList.jsx"
+			],
+			[
+				"app.cs",
+				"src\\App.css"
+			],
+			[
+				"PageMa",
+				"src\\components\\PageMain.jsx"
+			],
+			[
+				"webpack.",
+				"client\\build\\webpack.base.conf.js"
+			],
+			[
+				"PostsSer",
+				"client\\src\\services\\PostsService.js"
+			],
+			[
+				"StartPa",
+				"client\\src\\components\\StartPage.vue"
+			],
+			[
+				"PostsPa",
+				"client\\src\\components\\PostsPage.vue"
+			],
+			[
+				"Postser",
+				"client\\src\\services\\PostService.js"
+			],
+			[
+				"posts",
+				"client\\src\\components\\PostsPage.vue"
+			],
+			[
+				"bootstrap.js",
+				"client\\src\\plugins\\bootstrap.js"
+			],
+			[
+				"PostSer",
+				"client\\src\\services\\PostService.js"
+			],
+			[
+				"INDEX.JS",
+				"server\\src\\index.js"
+			],
+			[
+				"webpack.config.js",
+				"client\\node_modules\\xxhashjs\\webpack.config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
